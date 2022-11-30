@@ -4,6 +4,8 @@
 Here you can find filament slicer profiles for [Coex 3D](https://coex3d.com) 3D 
 printing filaments.
 
+If you have any questions about using our profiles, or have suggestions for settings changes based on what works best for you, feel free to let us know at [support@coex3d.com](mailto:support@coex3d.com)!
+
 # How to use slicer profiles
 
 1. Find the profile for the filament and slicer you're using.  
