@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Coex 3D</brand>
+      <material>ABS Prime</material>
+      <color>Inferno Orange</color>
+      <label>ABS Prime</label>
+    </name>
+    <version>14</version>
+    <description> ABS Filament ABS filament is a thermoplastic 3d printer filament. It easily molds when heated and sets evenly when cooled.  ABS filament is used by a variety of manufacturing industries for parts requiring  structural integrity and detail, and is ideal for “wear and tear” projects. It is commonly used in rapid prototyping and additive manufacturing environments to test product impact resistance and durability. It is also popular with 3D printing hobbyist who utilize 3D printing in their home or at a local maker faire.  This 3D printer filament comes in a variety of colors and is available in 1.75 and 2.85 MM in diameter, and comes in 500 g, 5 lbs, 15 lbs and 1 kg.</description>
+    <color_code>#ff7301</color_code>
+    <GUID>f549a97e-91e1-4c87-9cc6-0ed7c7c632e6</GUID>
+    <adhesion_info>Glue stick, hairspray, or an ABS slurry (ABS mixed with acetone)</adhesion_info>
+  </metadata>
+  <properties>
+    <weight>2300</weight>
+    <density>1.03</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="build volume temperature">60</setting>
+    <setting key="standby temperature">175</setting>
+    <setting key="print temperature">245.0</setting>
+    <setting key="heated bed temperature">100</setting>
+    <setting key="retraction amount">1.4</setting>
+    <machine>
+      <machine_identifier manufacturer="eMotionTech" product="strateo3d" />
+      <hotend id="Standard 0.4">
+        <setting key="hardware compatible">yes</setting>
+        <setting key="print temperature">240</setting>
+        <setting key="retraction amount">1.3</setting>
+      </hotend>
+      <hotend id="Standard 0.6">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="Standard 0.8">
+        <setting key="hardware compatible">yes</setting>
+        <setting key="print temperature">250</setting>
+        <setting key="retraction amount">1.5</setting>
+      </hotend>
+    </machine>
+  </settings>
+</fdmmaterial>
