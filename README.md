@@ -1,4 +1,7 @@
+![Settings Pamphlet](images/settings.png)
+
 # Coex 3D Filament Profiles
+
  Slicer filament profiles for Coex 3D filament
 
 Here you can find filament slicer profiles for [Coex 3D](https://coex3d.com) 3D 
