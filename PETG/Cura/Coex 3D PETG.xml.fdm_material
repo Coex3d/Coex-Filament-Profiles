@@ -10,81 +10,105 @@
     <version>8</version>
     <GUID>0f653e35-50cb-475f-ae60-be73e5438797</GUID>
     <color_code>#ffc924</color_code>
-    <description>Due its impact resistance, high strength, and its resistance to temperature, PETG is a great material for functionable applications, such as prints that are regularly used, in warmer areas, and prints that need some flexibility.</description>
-    <adhesion_info>Always use an adhesion/release agent such as glue stick, Magigoo or painter's tape to avoid prints sticking to the bed too firmly and damaging the bed when removing parts.</adhesion_info>
+    <description>Coex 3D recommends the following settings when printing with our PETG. Settings will vary depending on your specific print setup.
+
+- Hotend Temperature: 230 °C - 245 °C
+- Bed Temperature: 70 °C - 90 °C
+- Heated Bed Recommended
+- Recommended Build Surfaces/Adhesives:
+    - PEI Build Surface
+    - Glass Build Surface
+    - Magigoo
+    - Glue Stick
+    - Painter's Tape
+- Cooling Fan: Recommended. PETG works best with slightly less cooling than PLA. 50-75% fan speed is recommended.
+
+</description>
+    <adhesion_info>ALWAYS use an adhesion/release agent such as glue stick, Magigoo or painter's tape to avoid prints sticking to the bed too firmly and damaging the bed when removing parts.</adhesion_info>
   </metadata>
   <properties>
     <density>1.27</density>
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">200</setting>
-    <setting key="heated bed temperature">60</setting>
+    <setting key="print temperature">235</setting>
+    <setting key="heated bed temperature">75</setting>
     <setting key="standby temperature">175</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="build volume temperature">28</setting>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy3proV2" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy3" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy2pro" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy2" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x5sa_500" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x5sa_400" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x5sa" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_d01" />
-      <setting key="heated bed temperature">55</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Lotmaxx" product="lotmaxx_sc60" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">70</setting>
       <setting key="standby temperature">200</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Kati Hal ARGE" product="kupido" />
+	  <setting key="print temperature">235.0</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">40</setting>
@@ -92,15 +116,15 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX" />
-      <setting key="print temperature">210</setting>
-      <setting key="heated bed temperature">55</setting>
+      <setting key="print temperature">235</setting>
+      <setting key="heated bed temperature">75</setting>
       <hotend id="0.4 mm">
         <setting key="hardware compatible">yes</setting>
       </hotend>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender5" />
-      <setting key="heated bed temperature">50</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -108,7 +132,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender4" />
-      <setting key="heated bed temperature">50</setting>
+      <setting key="heated bed temperature">75</setting>
+	  <setting key="print temperature">235.0</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -125,7 +150,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender2" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -133,7 +159,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr20pro" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -141,7 +168,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr20" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -149,7 +177,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10spro" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -157,15 +186,17 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10s5" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
-      <setting key="retraction speed">45</setting>
+      <setting key="retraction speed">45</sett4ing>
       <setting key="retraction amount">5</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10s4" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -173,7 +204,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10s" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -181,7 +213,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10mini" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -189,7 +222,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -197,7 +231,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="CreawsomeMod" product="creality_base" />
-      <setting key="heated bed temperature">50</setting>
+	  <setting key="print temperature">235.0</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction speed">45</setting>
@@ -205,8 +240,8 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Cartesio bv" product="cartesio" />
-      <setting key="print temperature">190</setting>
-      <setting key="heated bed temperature">43</setting>
+      <setting key="print temperature">235</setting>
+      <setting key="heated bed temperature">75</setting>
       <setting key="standby temperature">160</setting>
       <setting key="print cooling">40.0</setting>
       <setting key="retraction speed">40</setting>
@@ -225,13 +260,13 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="BIQU" product="biqu_b1_abl" />
-      <setting key="print temperature">180</setting>
+      <setting key="print temperature">235</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="BIQU" product="biqu_b1" />
-      <setting key="print temperature">180</setting>
+      <setting key="print temperature">235</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
     </machine>
