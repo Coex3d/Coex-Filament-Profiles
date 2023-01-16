@@ -22,7 +22,7 @@
     <setting key="surface energy">100</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="standby temperature">175</setting>
-    <setting key="print temperature">215.0</setting>
+    <setting key="print temperature">220.0</setting>
     <setting key="heated bed temperature">60</setting>
     <setting key="retraction amount">0.9</setting>
     <machine>
