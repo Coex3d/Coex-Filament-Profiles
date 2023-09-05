@@ -43,6 +43,9 @@ You can now use the material profile in Cura.
 2. In the file browser window that appears, browse for the filament profile you would like to import and click Open. It will now appear as a filament profile.
 3. **Important!** PrusaSlicer will also create Printer and Print Settings profiles related to the imported file. These should be deleted and are not meant to be used.
 
+## Installing in Bambu Studio
+
+1. ![Bambu Studio Step 1](images/bambu_step1.png)
 ## Installing in SuperSlicer
 
 Follow the same steps for PrusaSlicer as shown above.
