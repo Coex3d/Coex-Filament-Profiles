@@ -128,18 +128,18 @@
         "0"
     ],
     "hot_plate_temp": [
-        "90"
+        "100"
     ],
     "hot_plate_temp_initial_layer": [
-        "90"
+        "100"
     ],
     "inherits": "Bambu ASA @BBL X1C 0.4 nozzle",
     "name": "Coex ASA",
     "nozzle_temperature": [
-        "270"
+        "255"
     ],
     "nozzle_temperature_initial_layer": [
-        "270"
+        "2550"
     ],
     "nozzle_temperature_range_high": [
         "280"
