@@ -37,10 +37,10 @@
         "0"
     ],
     "eng_plate_temp": [
-        "90"
+        "100"
     ],
     "eng_plate_temp_initial_layer": [
-        "90"
+        "100"
     ],
     "fan_cooling_layer_time": [
         "35"
@@ -136,10 +136,10 @@
     "inherits": "Bambu ASA @BBL X1C 0.4 nozzle",
     "name": "Coex ASA",
     "nozzle_temperature": [
-        "255"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "260"
     ],
     "nozzle_temperature_range_high": [
         "280"
