@@ -12,6 +12,9 @@
         "1"
     ],
     "compatible_printers": [
+        "Bambu Lab A1 0.4 nozzle",
+		"Bambu Lab A1 0.6 nozzle",
+		"Bambu Lab A1 0.8 nozzle",
         "Bambu Lab X1 0.4 nozzle",
         "Bambu Lab X1 0.6 nozzle",
         "Bambu Lab X1 0.8 nozzle",
@@ -101,7 +104,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Coex PLA"
+        "Coex PLA Prime"
     ],
     "filament_soluble": [
         "0"
