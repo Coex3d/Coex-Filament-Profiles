@@ -74,13 +74,13 @@
         "; filament end gcode \nM106 P3 S0\n"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.95"
     ],
     "filament_is_support": [
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "16"
+        "8"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -95,16 +95,16 @@
         "1"
     ],
     "filament_retraction_length": [
-        "3.25"
+        "0.4"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retraction_speed": [
-        "100"
+        "30"
     ],
     "filament_settings_id": [
-        "Coex Nylex Glass"
+        "Coex Nylex PA6-CF"
     ],
     "filament_soluble": [
         "0"
@@ -141,12 +141,12 @@
         "100"
     ],
     "inherits": "Generic PA",
-    "name": "Coex Nylex Glass",
+    "name": "Coex Nylex PA6-CF",
     "nozzle_temperature": [
         "265"
     ],
     "nozzle_temperature_initial_layer": [
-        "265"
+        "285"
     ],
     "nozzle_temperature_range_high": [
         "300"
