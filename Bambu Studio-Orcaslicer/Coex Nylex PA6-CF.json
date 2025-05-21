@@ -143,7 +143,7 @@
     "inherits": "Generic PA",
     "name": "Coex Nylex PA6-CF",
     "nozzle_temperature": [
-        "265"
+        "285"
     ],
     "nozzle_temperature_initial_layer": [
         "285"
