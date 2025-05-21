@@ -50,13 +50,13 @@
         "100"
     ],
     "fan_cooling_layer_time": [
-        "4"
+        "5"
     ],
     "fan_max_speed": [
-        "0"
+        "30"
     ],
     "fan_min_speed": [
-        "0"
+        "10"
     ],
     "filament_cost": [
         "85"
@@ -92,16 +92,16 @@
         "nil"
     ],
     "filament_retract_when_changing_layer": [
-        "1"
+        "nil"
     ],
     "filament_retraction_length": [
-        "0.4"
+        "nil"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retraction_speed": [
-        "30"
+        "nil"
     ],
     "filament_settings_id": [
         "Coex Nylex PA6-CF"
@@ -155,10 +155,10 @@
         "245"
     ],
     "overhang_fan_speed": [
-        "30"
+        "40"
     ],
     "overhang_fan_threshold": [
-        "95%"
+        "0%"
     ],
     "pressure_advance": [
         "0.02"
