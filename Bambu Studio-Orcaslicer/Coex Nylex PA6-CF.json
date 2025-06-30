@@ -13,8 +13,8 @@
     ],
        "compatible_printers": [
         "Bambu Lab A1 0.4 nozzle",
-		"Bambu Lab A1 0.6 nozzle",
-		"Bambu Lab A1 0.8 nozzle",
+	"Bambu Lab A1 0.6 nozzle",
+	"Bambu Lab A1 0.8 nozzle",
         "Bambu Lab X1 0.4 nozzle",
         "Bambu Lab X1 0.6 nozzle",
         "Bambu Lab X1 0.8 nozzle",
@@ -23,7 +23,8 @@
         "Bambu Lab X1 Carbon 0.8 nozzle",
         "Bambu Lab P1S 0.4 nozzle",
         "Bambu Lab P1S 0.6 nozzle",
-        "Bambu Lab P1S 0.8 nozzle"
+        "Bambu Lab P1S 0.8 nozzle",
+	"Creality K1 Max (0.4 nozzle)"
     ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
