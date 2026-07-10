@@ -213,7 +213,7 @@
         ".04"
     ],
     "filament_z_hop_types": [
-        "Spiral"
+        "nil"
     ],
     "from": "",
     "full_fan_speed_layer": [
