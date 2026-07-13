@@ -12,31 +12,178 @@
         "1"
     ],
     "compatible_printers": [
-        "Bambu Lab A1 0.4 nozzle",
+		"Anycubic Kobra 3 0.2 nozzle",
+		"Anycubic Kobra 3 0.4 nozzle",
+		"Anycubic Kobra 3 0.6 nozzle",
+		"Anycubic Kobra 3 0.8 nozzle",
+		"Anycubic Kobra 3 Max 0.2 nozzle",
+		"Anycubic Kobra 3 Max 0.4 nozzle",
+		"Anycubic Kobra 3 max 0.6 nozzle",
+		"Anycubic Kobra 3 Max 0.8 nozzle",
+		"Anycubic Kobra 3 V2 0.2 nozzle",
+		"Anycubic Kobra 3 V2 0.4 nozzle",
+		"Anycubic Kobra 3 V2 0.6 nozzle",
+		"Anycubic Kobra 3 V2 0.8 nozzle",
+		"Anycubic Kobra 4 0.2 nozzle",
+		"Anycubic Kobra 4 0.4 nozzle",
+		"Anycubic Kobra 4 0.6 nozzle",
+		"Anycubic Kobra 4 0.8 nozzle",
+		"Anycubic Kobra X 0.2 nozzle",
+		"Anycubic Kobra X 0.4 nozzle",
+		"Anycubic Kobra X 0.6 nozzle",
+		"Anycubic Kobra X 0.8 nozzle",
+        "Anycubic Kobra S1 0.2 nozzle",
+		"Anycubic Kobra S1 0.4 nozzle",
+		"Anycubic Kobra S1 0.6 nozzle",
+		"Anycubic Kobra S1 0.8 nozzle",
+		"Anycubic Kobra S1 Max 0.2 nozzle",
+		"Anycubic Kobra S1 Max 0.4 nozzle",
+		"Anycubic Kobra S1 Max 0.6 nozzle",
+		"Anycubic Kobra S1 Max 0.8 nozzle",
+		
+		"Bambu Lab A1 0.2 nozzle",
+		"Bambu Lab A1 0.4 nozzle",
 		"Bambu Lab A1 0.6 nozzle",
 		"Bambu Lab A1 0.8 nozzle",
-        "Bambu Lab X1 0.4 nozzle",
-        "Bambu Lab X1 0.6 nozzle",
-        "Bambu Lab X1 0.8 nozzle",
-        "Bambu Lab X1 Carbon 0.4 nozzle",
-        "Bambu Lab X1 Carbon 0.6 nozzle",
-        "Bambu Lab X1 Carbon 0.8 nozzle",
+		"Bambu Lab A1 mini 0.2 nozzle",
+		"Bambu Lab A1 mini 0.4 nozzle",
+		"Bambu Lab A1 mini 0.6 nozzle",
+		"Bambu Lab A1 mini 0.8 nozzle",
+		"Bambu Lab H2C 0.2 Nozzle",
+		"Bambu Lab H2C 0.4 Nozzle",
+		"Bambu Lab H2C 0.6 Nozzle",
+		"Bambu Lab H2C 0.8 Nozzle",
+		"Bambu Lab H2D 0.2 Nozzle",
+		"Bambu Lab H2D 0.4 Nozzle",
+		"Bambu Lab H2D 0.6 Nozzle",
+		"Bambu Lab H2D 0.8 Nozzle",
+		"Bambu Lab H2S 0.2 Nozzle",
+		"Bambu Lab H2S 0.4 Nozzle",
+		"Bambu Lab H2S 0.6 Nozzle",
+		"Bambu Lab H2S 0.8 Nozzle",
+		"Bambu Lab P1S 0.2 nozzle",
         "Bambu Lab P1S 0.4 nozzle",
         "Bambu Lab P1S 0.6 nozzle",
         "Bambu Lab P1S 0.8 nozzle",
-		"Bambu Lab H2D 0.4 nozzle",
+		"Bambu Lab P2S 0.2 nozzle",
+		"Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab P2S 0.6 nozzle",
+        "Bambu Lab P2S 0.8 nozzle",
+		"Bambu Lab X1 0.2 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 0.6 nozzle",
+        "Bambu Lab X1 0.8 nozzle",
+		"Bambu Lab X1 Carbon 0.2 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.6 nozzle",
+        "Bambu Lab X1 Carbon 0.8 nozzle",
+		
+		"Creality K1 0.2 nozzle",
+		"Creality K1 0.4 nozzle",
+		"Creality K1 0.6 nozzle",
+		"Creality K1 0.8 nozzle",
+		"Creality K1C 0.2 nozzle",
+		"Creality K1C 0.4 nozzle",
+		"Creality K1C 0.6 nozzle",
+		"Creality K1C 0.8 nozzle",
+		"Creality K1 Max 0.2 nozzle",
+		"Creality K1 Max 0.4 nozzle",
+		"Creality K1 Max 0.6 nozzle",
+		"Creality K1 Max 0.8 nozzle",
+		"Creality K1 SE 0.2 nozzle",
+		"Creality K1 SE 0.4 nozzle",
+		"Creality K1 SE 0.6 nozzle",
+		"Creality K1 SE 0.8 nozzle",
+		"Creality K2 0.2 nozzle",
+		"Creality K2 0.4 nozzle",
+		"Creality K2 0.6 nozzle",
+		"Creality K2 0.8 nozzle",
+		"Creality K2 Plus 0.2 nozzle",
 		"Creality K2 Plus 0.4 nozzle",
         "Creality K2 Plus 0.6 nozzle",
-        "Creality K2 Plus 0.8 nozzle"
+        "Creality K2 Plus 0.8 nozzle",
+		"Creality K2 Pro 0.2 nozzle",
+		"Creality K2 Pro 0.2 nozzle",
+		"Creality K2 Pro 0.4 nozzle",
+		"Creality K2 Pro 0.6 nozzle",
+		"Creality K2 Pro 0.8 nozzle",
+		"Creality K2 SE 0.2 nozzle",
+		"Creality K2 SE 0.4 nozzle",
+		"Creality K2 SE 0.6 nozzle",
+		"Creality K2 SE 0.8 nozzle",
+		
+		"Elegoo Centauri 0.2 nozzle",
+		"Elegoo Centauri 0.4 nozzle",
+		"Elegoo Centauri 0.6 nozzle",
+		"Elegoo Centauri 0.8 nozzle",
+		"Elegoo Centauri 2 0.2 nozzle",
+		"Elegoo Centauri 2 0.4 nozzle",
+		"Elegoo Centauri 2 0.6 nozzle",
+		"Elegoo Centauri 2 0.8 nozzle",
+		"Elegoo Centauri Carbon 0.2 nozzle",
+		"Elegoo Centauri Carbon 0.4 nozzle",
+		"Elegoo Centauri Carbon 0.6 nozzle",
+		"Elegoo Centauri Carbon 0.8 nozzle",
+		"Elegoo Centauri Carbon 2 0.2 nozzle",
+		"Elegoo Centauri Carbon 2 0.4 nozzle",
+		"Elegoo Centauri Carbon 2 0.6 nozzle",
+		"Elegoo Centauri Carbon 2 0.8 nozzle",
+
+		"Prusa CORE One 0.2 nozzle",
+		"Prusa CORE One 0.4 nozzle",
+		"Prusa CORE One 0.6 nozzle",
+		"Prusa CORE One 0.8 nozzle",
+		"Prusa CORE L 0.2 nozzle",
+		"Prusa CORE L 0.4 nozzle",
+		"Prusa CORE L 0.6 nozzle",
+		"Prusa CORE L 0.8 nozzle",
+		"Prusa XL 0.2 nozzle",
+		"Prusa XL 0.4 nozzle",
+		"Prusa XL 0.6 nozzle",
+		"Prusa XL 0.8 nozzle",
+		"Prusa XL 5T 0.2 nozzle",
+		"Prusa XL 5T 0.4 nozzle",
+		"Prusa XL 5T 0.6 nozzle",
+		"Prusa XL 5T 0.8 nozzle",
+
+		"Qidi Max4 0.2 nozzle",
+		"Qidi Max4 0.4 nozzle",
+		"Qidi Max4 0.6 nozzle",
+		"Qidi Max4 0.8 nozzle",
+		"Qidi Plus4 0.2 nozzle",
+		"Qidi Plus4 0.4 nozzle",
+		"Qidi Plus4 0.6 nozzle",
+		"Qidi Plus4 0.8 nozzle",
+		"Qidi Q2 0.2 nozzle",
+		"Qidi Q2 0.4 nozzle",
+		"Qidi Q2 0.6 nozzle",
+		"Qidi Q2 0.8 nozzle",
+		"Qidi Q2C 0.2 nozzle",
+		"Qidi Q2C 0.4 nozzle",
+		"Qidi Q2C 0.6 nozzle",
+		"Qidi Q2C 0.8 nozzle",
+		"Qidi Tech Q1 Pro 0.2 nozzle",
+		"Qidi Tech Q1 Pro 0.4 nozzle",
+		"Qidi Tech Q1 Pro 0.6 nozzle",
+        "Qidi Tech Q1 Pro 0.8 nozzle",
+		"Qidi Tech X-Max 3 0.2 nozzle",
+		"Qidi Tech X-Max 3 0.2 nozzle",
+        "Qidi Tech X-Max 3 0.2 nozzle",
+        "Qidi Tech X-Max 3 0.2 nozzle",
+		
+		"Snapmaker U1 0.2 nozzle",
+		"Snapmaker U1 0.4 nozzle",
+		"Snapmaker U1 0.6 nozzle",
+		"Snapmaker U1 0.8 nozzle"
     ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
     "cool_plate_temp": [
-        "60"
+        "35"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "35"
     ],
     "default_filament_colour": [
         ""
@@ -48,10 +195,10 @@
         "0"
     ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "60"
     ],
     "fan_cooling_layer_time": [
         "100"
@@ -63,13 +210,13 @@
         "100"
     ],
     "filament_cost": [
-        "28"
+        "32"
     ],
     "filament_density": [
         "1.24"
     ],
     "filament_deretraction_speed": [
-        "nil"
+        "40"
     ],
     "filament_diameter": [
         "1.75"
@@ -84,28 +231,28 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "18"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
     "filament_retract_before_wipe": [
-        "nil"
+        "1"
     ],
     "filament_retract_restart_extra": [
         "nil"
     ],
     "filament_retract_when_changing_layer": [
-        "nil"
+        "1"
     ],
     "filament_retraction_length": [
-        "nil"
+        "1.5"
     ],
     "filament_retraction_minimum_travel": [
-        "nil"
+        "2"
     ],
     "filament_retraction_speed": [
-        "nil"
+        "45"
     ],
     "filament_settings_id": [
         "Coex PLA Prime"
@@ -123,10 +270,10 @@
         "Coex 3D"
     ],
     "filament_wipe": [
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
-        "nil"
+        "2"
     ],
     "filament_z_hop": [
         "nil"
@@ -147,7 +294,7 @@
     "inherits": "Generic PLA",
     "name": "Coex PLA",
     "nozzle_temperature": [
-        "235"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
         "235"
@@ -177,10 +324,10 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "8"
+        "5"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "temperature_vitrification": [
         "65"
