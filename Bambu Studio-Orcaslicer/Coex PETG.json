@@ -12,10 +12,34 @@
         "3"
     ],
     "compatible_printers": [
+		"Anycubic Kobra 3 0.2 nozzle",
+		"Anycubic Kobra 3 0.4 nozzle",
+		"Anycubic Kobra 3 0.6 nozzle",
+		"Anycubic Kobra 3 0.8 nozzle",
+		"Anycubic Kobra 3 Max 0.2 nozzle",
+		"Anycubic Kobra 3 Max 0.4 nozzle",
+		"Anycubic Kobra 3 max 0.6 nozzle",
+		"Anycubic Kobra 3 Max 0.8 nozzle",
+		"Anycubic Kobra 3 V2 0.2 nozzle",
+		"Anycubic Kobra 3 V2 0.4 nozzle",
+		"Anycubic Kobra 3 V2 0.6 nozzle",
+		"Anycubic Kobra 3 V2 0.8 nozzle",
+		"Anycubic Kobra 4 0.2 nozzle",
+		"Anycubic Kobra 4 0.4 nozzle",
+		"Anycubic Kobra 4 0.6 nozzle",
+		"Anycubic Kobra 4 0.8 nozzle",
+		"Anycubic Kobra X 0.2 nozzle",
+		"Anycubic Kobra X 0.4 nozzle",
+		"Anycubic Kobra X 0.6 nozzle",
+		"Anycubic Kobra X 0.8 nozzle",
         "Anycubic Kobra S1 0.2 nozzle",
 		"Anycubic Kobra S1 0.4 nozzle",
 		"Anycubic Kobra S1 0.6 nozzle",
 		"Anycubic Kobra S1 0.8 nozzle",
+		"Anycubic Kobra S1 Max 0.2 nozzle",
+		"Anycubic Kobra S1 Max 0.4 nozzle",
+		"Anycubic Kobra S1 Max 0.6 nozzle",
+		"Anycubic Kobra S1 Max 0.8 nozzle",
 		
 		"Bambu Lab A1 0.2 nozzle",
 		"Bambu Lab A1 0.4 nozzle",
@@ -104,6 +128,48 @@
 		"Elegoo Centauri Carbon 2 0.4 nozzle",
 		"Elegoo Centauri Carbon 2 0.6 nozzle",
 		"Elegoo Centauri Carbon 2 0.8 nozzle",
+
+		"Prusa CORE One 0.2 nozzle",
+		"Prusa CORE One 0.4 nozzle",
+		"Prusa CORE One 0.6 nozzle",
+		"Prusa CORE One 0.8 nozzle",
+		"Prusa CORE L 0.2 nozzle",
+		"Prusa CORE L 0.4 nozzle",
+		"Prusa CORE L 0.6 nozzle",
+		"Prusa CORE L 0.8 nozzle",
+		"Prusa XL 0.2 nozzle",
+		"Prusa XL 0.4 nozzle",
+		"Prusa XL 0.6 nozzle",
+		"Prusa XL 0.8 nozzle",
+		"Prusa XL 5T 0.2 nozzle",
+		"Prusa XL 5T 0.4 nozzle",
+		"Prusa XL 5T 0.6 nozzle",
+		"Prusa XL 5T 0.8 nozzle",
+
+		"Qidi Max4 0.2 nozzle",
+		"Qidi Max4 0.4 nozzle",
+		"Qidi Max4 0.6 nozzle",
+		"Qidi Max4 0.8 nozzle",
+		"Qidi Plus4 0.2 nozzle",
+		"Qidi Plus4 0.4 nozzle",
+		"Qidi Plus4 0.6 nozzle",
+		"Qidi Plus4 0.8 nozzle",
+		"Qidi Q2 0.2 nozzle",
+		"Qidi Q2 0.4 nozzle",
+		"Qidi Q2 0.6 nozzle",
+		"Qidi Q2 0.8 nozzle",
+		"Qidi Q2C 0.2 nozzle",
+		"Qidi Q2C 0.4 nozzle",
+		"Qidi Q2C 0.6 nozzle",
+		"Qidi Q2C 0.8 nozzle",
+		"Qidi Tech Q1 Pro 0.2 nozzle",
+		"Qidi Tech Q1 Pro 0.4 nozzle",
+		"Qidi Tech Q1 Pro 0.6 nozzle",
+        "Qidi Tech Q1 Pro 0.8 nozzle",
+		"Qidi Tech X-Max 3 0.2 nozzle",
+		"Qidi Tech X-Max 3 0.2 nozzle",
+        "Qidi Tech X-Max 3 0.2 nozzle",
+        "Qidi Tech X-Max 3 0.2 nozzle",
 		
 		"Snapmaker U1 0.2 nozzle",
 		"Snapmaker U1 0.4 nozzle",
@@ -114,10 +180,10 @@
     "compatible_prints": [],
     "compatible_prints_condition": "",
     "cool_plate_temp": [
-        "0"
+        ""
     ],
     "cool_plate_temp_initial_layer": [
-        "0"
+        ""
     ],
     "default_filament_colour": [
         ""
@@ -213,7 +279,7 @@
         ".04"
     ],
     "filament_z_hop_types": [
-        "nil"
+        "SPIRAL"
     ],
     "from": "",
     "full_fan_speed_layer": [
