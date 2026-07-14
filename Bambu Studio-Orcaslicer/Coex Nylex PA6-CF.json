@@ -185,12 +185,6 @@
     "cool_plate_temp_initial_layer": [
         "0"
 	],
-	"textured_cool_plate_temp" [
-		"0"
-    ],
-	"textured_cool_plate_initial_temp": [
-		"0"
-	]
     "default_filament_colour": [
         "#000000"
     ],
@@ -338,8 +332,14 @@
     "temperature_vitrification": [
         "108"
     ],
+	"textured_cool_plate_initial_temp": [
+		"0"
+	],
     "textured_plate_temp": [
         "100"
+    ],
+	"textured_cool_plate_temp" [
+		"0"
     ],
     "textured_plate_temp_initial_layer": [
         "100"
