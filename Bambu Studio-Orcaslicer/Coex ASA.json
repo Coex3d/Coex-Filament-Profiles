@@ -12,23 +12,137 @@
         "3"
     ],
     "compatible_printers": [
-        "Bambu Lab A1 0.4 nozzle",
-		"Bambu Lab A1 0.6 nozzle",
-		"Bambu Lab A1 0.8 nozzle",
-        "Bambu Lab X1 0.4 nozzle",
-        "Bambu Lab X1 0.6 nozzle",
-        "Bambu Lab X1 0.8 nozzle",
-        "Bambu Lab X1 Carbon 0.4 nozzle",
-        "Bambu Lab X1 Carbon 0.6 nozzle",
-        "Bambu Lab X1 Carbon 0.8 nozzle",
+        "Anycubic Kobra S1 0.2 nozzle",
+		"Anycubic Kobra S1 0.4 nozzle",
+		"Anycubic Kobra S1 0.6 nozzle",
+		"Anycubic Kobra S1 0.8 nozzle",
+		"Anycubic Kobra S1 Max 0.2 nozzle",
+		"Anycubic Kobra S1 Max 0.4 nozzle",
+		"Anycubic Kobra S1 Max 0.6 nozzle",
+		"Anycubic Kobra S1 Max 0.8 nozzle",
+		
+		"Bambu Lab H2C 0.2 Nozzle",
+		"Bambu Lab H2C 0.4 Nozzle",
+		"Bambu Lab H2C 0.6 Nozzle",
+		"Bambu Lab H2C 0.8 Nozzle",
+		"Bambu Lab H2D 0.2 Nozzle",
+		"Bambu Lab H2D 0.4 Nozzle",
+		"Bambu Lab H2D 0.6 Nozzle",
+		"Bambu Lab H2D 0.8 Nozzle",
+		"Bambu Lab H2S 0.2 Nozzle",
+		"Bambu Lab H2S 0.4 Nozzle",
+		"Bambu Lab H2S 0.6 Nozzle",
+		"Bambu Lab H2S 0.8 Nozzle",
+		"Bambu Lab P1S 0.2 nozzle",
         "Bambu Lab P1S 0.4 nozzle",
         "Bambu Lab P1S 0.6 nozzle",
         "Bambu Lab P1S 0.8 nozzle",
-		"Bambu Lab H2D 0.4 nozzle",
-		"Flashforge Adventurer 5M Pro 0.6 nozzle",
+		"Bambu Lab P2S 0.2 nozzle",
+		"Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab P2S 0.6 nozzle",
+        "Bambu Lab P2S 0.8 nozzle",
+		"Bambu Lab X1 0.2 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 0.6 nozzle",
+        "Bambu Lab X1 0.8 nozzle",
+		"Bambu Lab X1 Carbon 0.2 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.6 nozzle",
+        "Bambu Lab X1 Carbon 0.8 nozzle",
+		"Bambu Lab X2D 0.2 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab X2D 0.6 nozzle",
+        "Bambu Lab X2D 0.8 nozzle",
+		
+		"Creality K1 0.2 nozzle",
+		"Creality K1 0.4 nozzle",
+		"Creality K1 0.6 nozzle",
+		"Creality K1 0.8 nozzle",
+		"Creality K1C 0.2 nozzle",
+		"Creality K1C 0.4 nozzle",
+		"Creality K1C 0.6 nozzle",
+		"Creality K1C 0.8 nozzle",
+		"Creality K1 Max 0.2 nozzle",
+		"Creality K1 Max 0.4 nozzle",
+		"Creality K1 Max 0.6 nozzle",
+		"Creality K1 Max 0.8 nozzle",
+		"Creality K1 SE 0.2 nozzle",
+		"Creality K1 SE 0.4 nozzle",
+		"Creality K1 SE 0.6 nozzle",
+		"Creality K1 SE 0.8 nozzle",
+		"Creality K2 0.2 nozzle",
+		"Creality K2 0.4 nozzle",
+		"Creality K2 0.6 nozzle",
+		"Creality K2 0.8 nozzle",
+		"Creality K2 Plus 0.2 nozzle",
 		"Creality K2 Plus 0.4 nozzle",
         "Creality K2 Plus 0.6 nozzle",
-        "Creality K2 Plus 0.8 nozzle"
+        "Creality K2 Plus 0.8 nozzle",
+		"Creality K2 Pro 0.2 nozzle",
+		"Creality K2 Pro 0.2 nozzle",
+		"Creality K2 Pro 0.4 nozzle",
+		"Creality K2 Pro 0.6 nozzle",
+		"Creality K2 Pro 0.8 nozzle",
+		"Creality K2 SE 0.2 nozzle",
+		"Creality K2 SE 0.4 nozzle",
+		"Creality K2 SE 0.6 nozzle",
+		"Creality K2 SE 0.8 nozzle",
+		
+		"Elegoo Centauri Carbon 0.2 nozzle",
+		"Elegoo Centauri Carbon 0.4 nozzle",
+		"Elegoo Centauri Carbon 0.6 nozzle",
+		"Elegoo Centauri Carbon 0.8 nozzle",
+		"Elegoo Centauri Carbon 2 0.2 nozzle",
+		"Elegoo Centauri Carbon 2 0.4 nozzle",
+		"Elegoo Centauri Carbon 2 0.6 nozzle",
+		"Elegoo Centauri Carbon 2 0.8 nozzle",
+
+		"Prusa CORE One 0.2 nozzle",
+		"Prusa CORE One 0.4 nozzle",
+		"Prusa CORE One 0.6 nozzle",
+		"Prusa CORE One 0.8 nozzle",
+		"Prusa CORE L 0.2 nozzle",
+		"Prusa CORE L 0.4 nozzle",
+		"Prusa CORE L 0.6 nozzle",
+		"Prusa CORE L 0.8 nozzle",
+		"Prusa XL 0.2 nozzle",
+		"Prusa XL 0.4 nozzle",
+		"Prusa XL 0.6 nozzle",
+		"Prusa XL 0.8 nozzle",
+		"Prusa XL 5T 0.2 nozzle",
+		"Prusa XL 5T 0.4 nozzle",
+		"Prusa XL 5T 0.6 nozzle",
+		"Prusa XL 5T 0.8 nozzle",
+
+		"Qidi Max4 0.2 nozzle",
+		"Qidi Max4 0.4 nozzle",
+		"Qidi Max4 0.6 nozzle",
+		"Qidi Max4 0.8 nozzle",
+		"Qidi Plus4 0.2 nozzle",
+		"Qidi Plus4 0.4 nozzle",
+		"Qidi Plus4 0.6 nozzle",
+		"Qidi Plus4 0.8 nozzle",
+		"Qidi Q2 0.2 nozzle",
+		"Qidi Q2 0.4 nozzle",
+		"Qidi Q2 0.6 nozzle",
+		"Qidi Q2 0.8 nozzle",
+		"Qidi Q2C 0.2 nozzle",
+		"Qidi Q2C 0.4 nozzle",
+		"Qidi Q2C 0.6 nozzle",
+		"Qidi Q2C 0.8 nozzle",
+		"Qidi Tech Q1 Pro 0.2 nozzle",
+		"Qidi Tech Q1 Pro 0.4 nozzle",
+		"Qidi Tech Q1 Pro 0.6 nozzle",
+        "Qidi Tech Q1 Pro 0.8 nozzle",
+		"Qidi Tech X-Max 3 0.2 nozzle",
+		"Qidi Tech X-Max 3 0.2 nozzle",
+        "Qidi Tech X-Max 3 0.2 nozzle",
+        "Qidi Tech X-Max 3 0.2 nozzle",
+		
+		"Snapmaker U1 0.2 nozzle",
+		"Snapmaker U1 0.4 nozzle",
+		"Snapmaker U1 0.6 nozzle",
+		"Snapmaker U1 0.8 nozzle"
     ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
@@ -85,25 +199,25 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "16"
+        "14.25"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
     "filament_retract_before_wipe": [
-        "nil"
+        "1"
     ],
     "filament_retract_restart_extra": [
         "nil"
     ],
     "filament_retract_when_changing_layer": [
-        "nil"
+        "1"
     ],
     "filament_retraction_length": [
-        "nil"
+        ".8"
     ],
     "filament_retraction_minimum_travel": [
-        "nil"
+        "1"
     ],
     "filament_retraction_speed": [
         "nil"
@@ -124,10 +238,10 @@
         "Coex 3D"
     ],
     "filament_wipe": [
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
-        "nil"
+        "2"
     ],
     "filament_z_hop": [
         "nil"
@@ -148,10 +262,10 @@
     "inherits": "Bambu ASA @BBL X1C 0.4 nozzle",
     "name": "Coex ASA",
     "nozzle_temperature": [
-        "260"
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
-        "260"
+        "270"
     ],
     "nozzle_temperature_range_high": [
         "280"
@@ -160,10 +274,10 @@
         "240"
     ],
     "overhang_fan_speed": [
-        "80"
+        "90"
     ],
     "overhang_fan_threshold": [
-        "25%"
+        "10%"
     ],
     "pressure_advance": [
         "0.02"
@@ -178,7 +292,7 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "3"
+        "4"
     ],
     "slow_down_min_speed": [
         "20"
