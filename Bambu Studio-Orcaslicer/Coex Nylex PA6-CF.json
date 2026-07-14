@@ -332,6 +332,9 @@
     "temperature_vitrification": [
         "108"
     ],
+	"textured_cool_plate_temp" [
+		"0"
+    ],
 	"textured_cool_plate_initial_temp": [
 		"0"
 	],
