@@ -184,7 +184,13 @@
     ],
     "cool_plate_temp_initial_layer": [
         "0"
+	],
+	"textured_cool_plate_temp" [
+		"0"
     ],
+	"textured_cool_plate_initial_temp": [
+		"0"
+	]
     "default_filament_colour": [
         "#000000"
     ],
