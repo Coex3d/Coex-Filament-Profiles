@@ -205,7 +205,7 @@
         "15"
     ],
     "filament_retract_before_wipe": [
-        "nil"
+        "70%"
     ],
     "filament_retract_restart_extra": [
         "nil"
