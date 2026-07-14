@@ -184,7 +184,7 @@
         "1.07"
     ],
     "filament_deretraction_speed": [
-        "nil"
+        "30"
     ],
     "filament_diameter": [
         "1.75"
@@ -205,7 +205,7 @@
         "15"
     ],
     "filament_retract_before_wipe": [
-        "1"
+        "70"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -217,10 +217,10 @@
         ".8"
     ],
     "filament_retraction_minimum_travel": [
-        "1"
+        "2"
     ],
     "filament_retraction_speed": [
-        "nil"
+        "30"
     ],
     "filament_settings_id": [
         "Coex ASA"
