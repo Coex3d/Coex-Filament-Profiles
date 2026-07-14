@@ -11,28 +11,8 @@
     "close_fan_the_first_x_layers": [
         "3"
     ],
-       "compatible_printers": [
-		"Anycubic Kobra 3 0.2 nozzle",
-		"Anycubic Kobra 3 0.4 nozzle",
-		"Anycubic Kobra 3 0.6 nozzle",
-		"Anycubic Kobra 3 0.8 nozzle",
-		"Anycubic Kobra 3 Max 0.2 nozzle",
-		"Anycubic Kobra 3 Max 0.4 nozzle",
-		"Anycubic Kobra 3 max 0.6 nozzle",
-		"Anycubic Kobra 3 Max 0.8 nozzle",
-		"Anycubic Kobra 3 V2 0.2 nozzle",
-		"Anycubic Kobra 3 V2 0.4 nozzle",
-		"Anycubic Kobra 3 V2 0.6 nozzle",
-		"Anycubic Kobra 3 V2 0.8 nozzle",
-		"Anycubic Kobra 4 0.2 nozzle",
-		"Anycubic Kobra 4 0.4 nozzle",
-		"Anycubic Kobra 4 0.6 nozzle",
-		"Anycubic Kobra 4 0.8 nozzle",
-		"Anycubic Kobra X 0.2 nozzle",
-		"Anycubic Kobra X 0.4 nozzle",
-		"Anycubic Kobra X 0.6 nozzle",
-		"Anycubic Kobra X 0.8 nozzle",
-      	"Anycubic Kobra S1 0.2 nozzle",
+    "compatible_printers": [
+        "Anycubic Kobra S1 0.2 nozzle",
 		"Anycubic Kobra S1 0.4 nozzle",
 		"Anycubic Kobra S1 0.6 nozzle",
 		"Anycubic Kobra S1 0.8 nozzle",
@@ -41,14 +21,6 @@
 		"Anycubic Kobra S1 Max 0.6 nozzle",
 		"Anycubic Kobra S1 Max 0.8 nozzle",
 		
-		"Bambu Lab A1 0.2 nozzle",
-		"Bambu Lab A1 0.4 nozzle",
-		"Bambu Lab A1 0.6 nozzle",
-		"Bambu Lab A1 0.8 nozzle",
-		"Bambu Lab A1 mini 0.2 nozzle",
-		"Bambu Lab A1 mini 0.4 nozzle",
-		"Bambu Lab A1 mini 0.6 nozzle",
-		"Bambu Lab A1 mini 0.8 nozzle",
 		"Bambu Lab H2C 0.2 Nozzle",
 		"Bambu Lab H2C 0.4 Nozzle",
 		"Bambu Lab H2C 0.6 Nozzle",
@@ -62,7 +34,7 @@
 		"Bambu Lab H2S 0.6 Nozzle",
 		"Bambu Lab H2S 0.8 Nozzle",
 		"Bambu Lab P1S 0.2 nozzle",
-    	"Bambu Lab P1S 0.4 nozzle",
+        "Bambu Lab P1S 0.4 nozzle",
         "Bambu Lab P1S 0.6 nozzle",
         "Bambu Lab P1S 0.8 nozzle",
 		"Bambu Lab P2S 0.2 nozzle",
@@ -77,6 +49,10 @@
         "Bambu Lab X1 Carbon 0.4 nozzle",
         "Bambu Lab X1 Carbon 0.6 nozzle",
         "Bambu Lab X1 Carbon 0.8 nozzle",
+		"Bambu Lab X2D 0.2 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab X2D 0.6 nozzle",
+        "Bambu Lab X2D 0.8 nozzle",
 		
 		"Creality K1 0.2 nozzle",
 		"Creality K1 0.4 nozzle",
@@ -112,14 +88,6 @@
 		"Creality K2 SE 0.6 nozzle",
 		"Creality K2 SE 0.8 nozzle",
 		
-		"Elegoo Centauri 0.2 nozzle",
-		"Elegoo Centauri 0.4 nozzle",
-		"Elegoo Centauri 0.6 nozzle",
-		"Elegoo Centauri 0.8 nozzle",
-		"Elegoo Centauri 2 0.2 nozzle",
-		"Elegoo Centauri 2 0.4 nozzle",
-		"Elegoo Centauri 2 0.6 nozzle",
-		"Elegoo Centauri 2 0.8 nozzle",
 		"Elegoo Centauri Carbon 0.2 nozzle",
 		"Elegoo Centauri Carbon 0.4 nozzle",
 		"Elegoo Centauri Carbon 0.6 nozzle",
@@ -184,7 +152,7 @@
     ],
     "cool_plate_temp_initial_layer": [
         "0"
-	],
+    ],
     "default_filament_colour": [
         "#000000"
     ],
@@ -213,10 +181,10 @@
         "85"
     ],
     "filament_density": [
-        "1.29"
+        "1.09"
     ],
     "filament_deretraction_speed": [
-        "nil"
+        "20"
     ],
     "filament_diameter": [
         "1.75"
@@ -225,7 +193,7 @@
         "; filament end gcode \nM106 P3 S0\n"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        ".98"
     ],
     "filament_is_support": [
         "0"
@@ -264,7 +232,7 @@
         "; Filament gcode\n"
     ],
     "filament_type": [
-        "PA"
+        "PA-CF"
     ],
     "filament_vendor": [
         "Coex 3D"
@@ -292,7 +260,7 @@
         "100"
     ],
     "inherits": "Generic PA",
-    "name": "Coex Nylex PA6-CF",
+    "name": "Coex Nylex Unfilled",
     "nozzle_temperature": [
         "280"
     ],
@@ -327,19 +295,16 @@
         "8"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "temperature_vitrification": [
         "108"
-	],
+    ],
     "textured_plate_temp": [
         "100"
-    ],
-	"textured_cool_plate_temp" [
-		"0"
     ],
     "textured_plate_temp_initial_layer": [
         "100"
     ],
-    "version": "1.6.0.3"
+    "version": "1.6.2.15"
 }
