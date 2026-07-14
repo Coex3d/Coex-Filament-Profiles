@@ -205,7 +205,7 @@
         "15"
     ],
     "filament_retract_before_wipe": [
-        "1"
+        "70"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -260,7 +260,7 @@
         "100"
     ],
     "inherits": "Generic PA",
-    "name": "Coex Nylex Unfilled",
+    "name": "Coex Nylex PA6-CF",
     "nozzle_temperature": [
         "280"
     ],
