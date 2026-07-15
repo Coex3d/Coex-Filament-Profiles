@@ -3,7 +3,7 @@
 		"1"
 	],
 	"activate_air_filtration_on_completion": [
-		"0"
+		"1"
 	],
     "additional_cooling_fan_speed": [
         "0"
@@ -192,6 +192,9 @@
     "cool_plate_temp": [
         "35"
     ],
+	"complete_print_exhaust_fan_speed": [
+		"50"
+	],
     "cool_plate_temp_initial_layer": [
         "35"
     ],
