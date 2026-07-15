@@ -247,7 +247,7 @@
         "15"
     ],
 	"filament_notes": [
-		"To prevent heat creep and extruder clogs; it is reccomended to either remove the top hat or open the front door (if applicable) while the machine is in operation"
+		"To prevent heat creep and extruder clogs; it is reccomended to either remove the top hat or open the front door (if applicable) while the machine is in operation. If printing enclosed, the Air Filtration setting is <ins>HIGHLY</ins> reccomended. As always Happy Printing! :crab:"
 	],
     "filament_retract_before_wipe": [
         "1"
