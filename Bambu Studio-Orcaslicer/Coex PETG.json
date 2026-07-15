@@ -2,6 +2,9 @@
 	"activate_air_filtration": [
 		"1"
 	],
+	"activate_air_filtration_on_completion": [
+		"0"
+	],
     "additional_cooling_fan_speed": [
         "0"
     ],
