@@ -1,4 +1,7 @@
 {
+	"activate_air_filtration": [
+		"1"
+	],
     "additional_cooling_fan_speed": [
         "0"
     ],
@@ -191,6 +194,9 @@
     ],
     "default_filament_colour": [
         ""
+    ],
+	"during_print_exhaust_fan_speed": [
+		"85"
     ],
     "enable_overhang_bridge_fan": [
         "1"
