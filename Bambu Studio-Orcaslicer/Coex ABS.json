@@ -1,5 +1,8 @@
 {
-    "additional_cooling_fan_speed": [
+    "activate_air_filtration": [
+		"0"
+	],
+	"additional_cooling_fan_speed": [
         "0"
     ],
     "bed_temperature_difference": [
