@@ -1,5 +1,5 @@
 {
-	"activate_air_filtration_during_print": [
+	"activate_air_filtration": [
 		"1"
 	],
     "additional_cooling_fan_speed": [
