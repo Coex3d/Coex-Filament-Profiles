@@ -11,7 +11,7 @@
     "close_fan_the_first_x_layers": [
         "1"
     ],
-    "compatible_printers": ["1"],
+    "compatible_printers": [],
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
@@ -131,7 +131,7 @@
         "60"
     ],
     "inherits": "Generic PLA",
-    "name": "Coex PLA",
+    "name": "Coex PLA Prime",
     "nozzle_temperature": [
         "230"
     ],
