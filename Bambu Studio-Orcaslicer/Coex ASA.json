@@ -1,6 +1,12 @@
 {
 	"activate_air_filtration": [
+		"1"
+	],
+	"activate_air_filtration_during_print": [
 		"0"
+	],
+	"activate_air_filtration_on_completion": [
+		"1"
 	],
     "additional_cooling_fan_speed": [
         "0"
@@ -150,6 +156,9 @@
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
+	"complete_print_exhaust_fan_speed": [
+		"75%"
+	],
     "cool_plate_temp": [
         "0"
     ],
@@ -193,7 +202,7 @@
         "1.75"
     ],
     "filament_end_gcode": [
-        "; filament end gcode \nM106 P3 S0\n"
+        "; filament end gcode"
     ],
     "filament_flow_ratio": [
         "0.95"
@@ -303,6 +312,12 @@
     "temperature_vitrification": [
         "100"
     ],
+	"textured_cool_plate_temp": [
+		"0"
+	],
+	"textured_cool_plate_temp_initial_layer": [
+		"0"
+	],
     "textured_plate_temp": [
         "100"
     ],
