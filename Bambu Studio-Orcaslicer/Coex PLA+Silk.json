@@ -178,7 +178,16 @@
 		"Snapmaker U1 0.2 nozzle",
 		"Snapmaker U1 0.4 nozzle",
 		"Snapmaker U1 0.6 nozzle",
-		"Snapmaker U1 0.8 nozzle"
+		"Snapmaker U1 0.8 nozzle",
+
+		"Sovol SV08 0.2 nozzle",
+		"Sovol SV08 0.4 nozzle",
+		"Sovol SV08 0.6 nozzle",
+		"Sovol SV08 0.8 nozzle",
+		"Sovol SV08 MAX 0.2 nozzle",
+		"Sovol SV08 MAX 0.4 nozzle",
+		"Sovol SV08 MAX 0.6 nozzle",
+		"Sovol SV08 MAX 0.8 nozzle"
     ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
@@ -241,7 +250,7 @@
         "15"
     ],
 	"filament_notes": [
-		"Printing Reccomendations:\n\nTo prevent heat creep and extruder clogs; it is reccomended to either remove the top hat or open the front door (if applicable) while the machine is in operation. If printing enclosed, the Air Filtration setting is reccomended.\n\nHeat Soaking the printbed at its operational temperature 15-20 minutes prior to a printing operation can help reduce warping. Apply glue stick or Weld3d Adhesive Spray as needed\n\nHappy Printing! 🦀🖨️🦀"
+		"Printing Reccomendations:\n\nTo prevent heat creep and extruder clogs; it is reccomended to either remove the top hat or open the front door (if applicable) while the machine is in operation. The Air Filtration setting is reccomended If printing enclosed.\n\nHeat Soaking the printbed at its operational temperature 15-20 minutes prior to a printing operation may help reduce warping. Apply glue stick or Weld3d Adhesive Spray as needed\n\n**Please Note!** These settings are a starting point and may need further adjustment depending on your printer setup.\n\nHappy Printing!!\n🦀🖨️🦀"
 	],
     "filament_retract_before_wipe": [
         "70"
