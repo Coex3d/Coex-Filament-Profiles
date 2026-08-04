@@ -253,7 +253,7 @@
         "15"
     ],
 	"filament_notes": [
-		"Printing Reccomendations:\n\nTo prevent heat creep and extruder clogs; it is reccomended to either remove the top hat or open the front door (if applicable) while the machine is in operation. The Air Filtration setting is a reccomended option If printing enclosed.\n\nHeat Soaking the printbed at its operational temperature 15-20 minutes prior to a printing operation may help reduce warping. Apply glue stick or Weld3d Adhesive Spray as needed\n\n**Please Note!** These settings are a <ins>starting point</ins> and may need further adjustment depending on your printer setup.\n\nHappy Printing! 🦀🖨️🦀"
+		"Printing Reccomendations:\n\nTo prevent heat creep and extruder clogs; it is reccomended to either remove the top hat or open the front door (if applicable) while the machine is in operation. The Air Filtration setting is a reccomended option If printing enclosed.\n\nHeat Soaking the printbed at its operational temperature 15-20 minutes prior to a printing operation may help reduce warping. Apply glue stick or Weld3d Adhesive Spray as needed\n\n**Please Note!** These settings are a starting point and may need further adjustment depending on your printer setup.\n\nHappy Printing!!\n🦀🖨️🦀"
 	],
 
     "filament_retract_before_wipe": [
