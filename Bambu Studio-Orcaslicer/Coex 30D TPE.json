@@ -253,10 +253,7 @@
         "15"
     ],
 	"filament_notes": [
-	"**Please Note!** These settings are a starting point and may need further adjustment depending on your printer setup.\n\nPrinting Reccomendations:\n\n
-    DO NOT FEED from an AMS or similar multimaterial system.\nUse of an overhead spool tower is HIGHLY reccomended to avoid filament kinks and binds that result in underextrusion.\n 
-    Please refer to our Makerworld model for use on Bambu P1,P2,X1, and X2 models here:\n\n https://makerworld.com/en/models/1839538-overhead-spool-holder#profileId-1965010
-    \n\nHappy Printing!!\n🦀🖨️🦀"
+	"**Please Note!** These settings are a starting point and may need further adjustment depending on your printer setup.\n\nPrinting Reccomendations:\n\nDO NOT FEED from an AMS or similar multimaterial system.\nUse of an overhead spool tower is HIGHLY reccomended to avoid filament kinks and binds that result in underextrusion.\n Please refer to our Makerworld model for use on Bambu P1,P2,X1, and X2 models here:\n\n https://makerworld.com/en/models/1839538-overhead-spool-holder#profileId-1965010\n\nHappy Printing!!\n🦀🖨️🦀"
 	],
 
     "filament_retract_before_wipe": [
